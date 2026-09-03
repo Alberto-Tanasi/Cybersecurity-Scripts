@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 ================================================================================
- CTF AUTO-DECODER -- multi-layer encoding / cipher detective
+ CTF AUTO-DECODER -- multi-layer encoding / cipher cracker
 ================================================================================
-Paste in a mystery string and this tool automatically detects and peels back
+Paste in a flag and this tool automatically detects and peels back
 every layer of encoding/encryption until it finds human-readable plaintext or
 a flag -- e.g. Base32 -> Base64 -> single-byte XOR -> plaintext, all chained
 automatically.
