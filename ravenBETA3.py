@@ -26,7 +26,7 @@ def banner():
        [ Remote Access & Vulnerability Engine Network ]
     _______________________________________________________
     
-                  {G}Developed by: Al & Gem{RESET}
+                  {G}Developed by: Alberto{RESET}
     """)
 
 # --- [ UTILS ] ---
