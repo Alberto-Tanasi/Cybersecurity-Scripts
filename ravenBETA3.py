@@ -186,7 +186,7 @@ def main_menu():
         banner()
         print(f" [{G}1{RESET}] Wireless Auditing        (WiFi/Deauth)")
         print(f" [{G}2{RESET}] Network Reconnaissance  (Nmap/Discovery)")
-        print(f" [{G}3{RESET}] Payload Orchestration   (WIP)")
+        print(f" [{G}3{RESET}] Payload Orchestration   (Work In Progress)")
         print(f" [{G}0{RESET}] Exit System")
         
         choice = input(f"\n{W}RAVEN{RESET} > ")
